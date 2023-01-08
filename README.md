@@ -1,13 +1,13 @@
 # Data-Analytics-Portfolio
 - This repository contains all the projects done during my training at EduBridge during Dec-2021 - May 2022
-Tools
-## Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
+## Tools
+- Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
 - Machine Learning: scikit-learn
 - Statistics
 - Excel
 - Tableau
 ## Skills
--P ython3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics , Tableau , Excel
+- Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics , Tableau , Excel
 ## Contents
 1. Data Visualization -using Excel and Tableau :
 
@@ -39,6 +39,6 @@ Tools
 
 - [Web Scrapping]() : Main purpose is to scrap the data about the countries and its population.
 ## Connect with me on these platforms:
-- LinkdIn : [LinkedIn](https://www.linkedin.com/in/mobark-ahmed-5104a9190)
-- Gmail : [Gmail](data@mobarkahmed.tech)
-- Website : [Website](mobarkahmed.tech)
+- LinkdIn : [[LinkedIn](https://www.linkedin.com/in/mobark-ahmed-5104a9190)](https://www.linkedin.com/in/mobark-ahmed-5104a9190)
+- Gmail : [data@mobarkahmed.tech)](data@mobarkahmed.tech)
+- Website : [mobarkahmed.tech](mobarkahmed.tech)
