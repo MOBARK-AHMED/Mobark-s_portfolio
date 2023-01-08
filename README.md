@@ -1,5 +1,5 @@
 # Data-Analytics-Portfolio
-- This repository contains all the projects done during my training at EduBridge during Dec-2021 - May 2022
+- This repository contains all the projects done during my training at Data Analyst Professional Certificate - IBM Training during Nov-2021 - Jan 2023
 ## Tools
 - Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
 - Machine Learning: scikit-learn
@@ -39,6 +39,6 @@
 
 - [Web Scrapping]() : Main purpose is to scrap the data about the countries and its population.
 ## Connect with me on these platforms:
-- LinkdIn : [[LinkedIn](https://www.linkedin.com/in/mobark-ahmed-5104a9190)](https://www.linkedin.com/in/mobark-ahmed-5104a9190)
-- Gmail : [data@mobarkahmed.tech)](data@mobarkahmed.tech)
+- LinkdIn : [https://www.linkedin.com/in/mobark-ahmed-5104a9190](https://www.linkedin.com/in/mobark-ahmed-5104a9190)
+- Gmail : [data@mobarkahmed.tech](data@mobarkahmed.tech)
 - Website : [mobarkahmed.tech](mobarkahmed.tech)
