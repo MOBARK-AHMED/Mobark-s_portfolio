@@ -15,7 +15,7 @@ Tools
 --Superstore Dataset : Dynamic Visualization of SuperStore using Tableau gives the insights about the yearly Sales, Profits regionwise or categorywise. This can be viewed by any user with out prior information.
 --Machine Learning Case Studies :
 
-Lung Cancer Prediction : Created and Trained Model which predicts whether a given passenger has cancer or not.
+--Lung Cancer Prediction : Created and Trained Model which predicts whether a given passenger has cancer or not.
 
 Caffeine Calorie Analysis : Predict the calorie and caffeine content with its volume.
 
