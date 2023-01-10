@@ -10,12 +10,12 @@
 ## Skills
 - Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics , IBM Cognos , Excel
 ## Contents
-1. [Data Collection]():-using APIs and webscraping
+1. [Data Collection]() :
 
 - Collecting Data Using APIs : Collecting job data from Jobs API and Storing the collected data into an excel spreadsheet.
 - Collecting Data Using Webscraping : Dynamic Visualization of SuperStore using Tableau gives the insights about the yearly Sales, Profits regionwise or categorywise. This can be viewed by any user with out prior information.
 - Exploring Data : 
-2. Data Wrangling :
+2. [Data Wrangling]() :
 
 - Finding Missing Values : Created and Trained Model which predicts whether a given passenger has cancer or not.
 
@@ -27,7 +27,7 @@
 
 - Normalizing Data : 
 
-3. [Exploratory Data Analysis]():
+3. [Exploratory Data Analysis]() :
 - Distribution : 
 
 - Outliers : 
