@@ -28,11 +28,11 @@
 - [Normalizing Data]() : 
 
 3. Exploratory Data Analysis:
-- (Distribution)[] : 
+- [Distribution]() : 
 
-- (Outliers)[] : 
+- [Outliers]() : 
 
-- (Correlation)[] : 
+- [Correlation]() : 
 
 4. Data Visualization : 
 
