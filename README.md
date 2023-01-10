@@ -50,7 +50,7 @@
 
 6. [Presentation of Findings]() :
 
-- [Final Presentation]() : Main purpose is to scrap the data about the countries and its population.
+- Final Presentation : Main purpose is to scrap the data about the countries and its population.
 ## Connect with me on these platforms:
 - LinkdIn : [https://www.linkedin.com/in/mobark-ahmed-5104a9190](https://www.linkedin.com/in/mobark-ahmed-5104a9190)
 - Gmail :  [data@mobarkahmed.tech](mailto:data@mobarkahmed.tech)
