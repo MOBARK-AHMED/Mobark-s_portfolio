@@ -1,44 +1,56 @@
 # Data-Analytics-Portfolio
-- This repository contains all the projects done during my training at Data Analyst Professional Certificate - IBM Training 
+- This repository contains all the projects done during my training at Data Analyst Professional Certificate-IBM Training 
 - during Nov-2022 - Jan 2023
 ## Tools
 - Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
 - Machine Learning: scikit-learn
 - Statistics
 - Excel
-- Tableau
+- IBM Cognos
 ## Skills
-- Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics , Tableau , Excel
+- Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics , IBM Cognos , Excel
 ## Contents
-1. Data Visualization -using Excel and Tableau :
+1. Data Collection -using APIs and webscraping :
 
-- [E-Commerce Dataset]() : By this dynamic Visualization of E Commerce using Excel gives the insights about their yearly Sales, Profit. This can be viewed by any user with out prior information.
-- [Superstore Dataset]() : Dynamic Visualization of SuperStore using Tableau gives the insights about the yearly Sales, Profits regionwise or categorywise. This can be viewed by any user with out prior information.
-2. Machine Learning Case Studies :
+- [Collecting Data Using APIs]() : By this dynamic Visualization of E Commerce using Excel gives the insights about their yearly Sales, Profit. This can be viewed by any user with out prior information.
+- [Collecting Data Using Webscraping]() : Dynamic Visualization of SuperStore using Tableau gives the insights about the yearly Sales, Profits regionwise or categorywise. This can be viewed by any user with out prior information.
+- [Exploring Data]() : 
+2. Data Wrangling :
 
-- [Lung Cancer Prediction]() : Created and Trained Model which predicts whether a given passenger has cancer or not.
+- [Finding Missing Values]() : Created and Trained Model which predicts whether a given passenger has cancer or not.
 
-- [Caffeine Calorie Analysis]() : Predict the calorie and caffeine content with its volume.
+- [Determine Missing Values]() : Predict the calorie and caffeine content with its volume.
 
-- [Spam Detection using Machine Learning]() : The objective of the dataset is to predict the SMS spam .
+- [Finding Duplicates]() : The objective of the dataset is to predict the SMS spam.
 
-3. Data-EDA/Statistical Analysis/Webscrapping:
+- [Removing Duplicates]() : 
 
-4. EDA :
+- [Normalizing Data]() : 
 
-- [Student Performance]() : Determine the test performance relation with the students marks and parent education using Python Codes. This also give a quick insight on python codes for EDA.
+3. Exploratory Data Analysis:
+- (Distribution)[] : 
 
-- [Bike Buyers]() : Determine the income relation with the education ans also gives a quick insight on R Codes.
+- (Outliers)[] : 
 
-5. Statistical Analysis using python and R :
+- (Correlation)[] : 
 
-- [Abalone dataset]() : To determine the Rings formed in an Abalone according to various factors which gives an insight about the statistical analysis using Python.
+4. Data Visualization : 
 
-- [Abalone dataset]() : To determine the Rings formed in an Abalone according to various factors which gives an insight about the statistical analysis using R.
+- [Visualizing Distribution of Data]() : Determine the test performance relation with the students marks and parent education using Python Codes. This also give a quick insight on python codes for EDA.
 
-6. Web Scrapping :
+- [Relationship]() : Determine the income relation with the education ans also gives a quick insight on R Codes.
 
-- [Web Scrapping]() : Main purpose is to scrap the data about the countries and its population.
+- [Composition]() : 
+
+- [Comparison]() :
+
+5. Dashboard Creation :
+
+- [Dashboards]() : To determine the Rings formed in an Abalone according to various factors which gives an insight about the statistical analysis using Python.
+
+6. Presentation of Findings :
+
+- [Final Presentation]() : Main purpose is to scrap the data about the countries and its population.
 ## Connect with me on these platforms:
 - LinkdIn : [https://www.linkedin.com/in/mobark-ahmed-5104a9190](https://www.linkedin.com/in/mobark-ahmed-5104a9190)
 - Gmail :  [data@mobarkahmed.tech](mailto:data@mobarkahmed.tech)
