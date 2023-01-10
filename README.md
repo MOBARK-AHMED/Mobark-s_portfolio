@@ -13,8 +13,7 @@
 1. [Data Collection]() :
 
 - Collecting Data Using APIs : Collecting job data from Jobs API and Storing the collected data into an excel spreadsheet.
-- Collecting Data Using Webscraping : 
-- 
+- Collecting Data Using Webscraping :  
 - Exploring Data : 
 2. [Data Wrangling]() :
 
