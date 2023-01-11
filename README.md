@@ -14,47 +14,47 @@
 
 - Collecting Data Using APIs : Collecting job data from Jobs API and Storing the collected data into an excel spreadsheet.
 
-- Collecting Data Using Webscraping :
+- Collecting Data Using Webscraping.
  
-- Exploring Data : 
+- Exploring Data.
 
 2. [Data Wrangling]() :
 
-- Finding Missing Values : 
+- Finding Missing Values.
 
-- Determine Missing Values : 
+- Determine Missing Values.
 
-- Finding Duplicates : 
+- Finding Duplicates.
 
-- Removing Duplicates : 
+- Removing Duplicates.
 
-- Normalizing Data : 
+- Normalizing Data.
 
 3. [Exploratory Data Analysis]() :
 
-- Distribution : 
+- Distribution.
 
-- Outliers : 
+- Outliers.
 
-- Correlation : 
+- Correlation.
 
 4. [Data Visualization]() : 
 
-- Visualizing Distribution of Data :
+- Visualizing Distribution of Data.
 
-- Relationship : 
+- Relationship.
 
-- Composition : 
+- Composition.
 
-- Comparison :
+- Comparison.
 
 5. [Dashboard Creation]() :
 
-- Dashboards :
+- Dashboards.
 
 6. [Presentation of Findings]() :
 
-- Final Presentation : 
+- Final Presentation.
 ## Connect with me on these platforms:
 - LinkdIn : [https://www.linkedin.com/in/mobark-ahmed-5104a9190](https://www.linkedin.com/in/mobark-ahmed-5104a9190)
 - Gmail :  [data@mobarkahmed.tech](mailto:data@mobarkahmed.tech)
