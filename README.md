@@ -30,7 +30,7 @@
 
 - Normalizing Data.
 
-3. [Exploratory Data Analysis]() :
+3. [Exploratory Data Analysis](https://github.com/MOBARK-AHMED/Mobark-s_portfolio/tree/main/Projects/Exploratory%20Data%20Analysis) :
 
 - Distribution.
 
