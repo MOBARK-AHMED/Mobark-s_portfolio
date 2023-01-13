@@ -10,7 +10,7 @@
 ## Skills
 - Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics , IBM Cognos , Excel
 ## Contents
-1. [Data Collection]() :
+1. [Data Collection](https://github.com/MOBARK-AHMED/Mobark-s_portfolio/tree/main/Projects/Data%20Collection) :
 
 - Collecting Data Using APIs : Collecting job data from Jobs API and Storing the collected data into an excel spreadsheet.
 
