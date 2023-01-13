@@ -52,7 +52,7 @@
 
 - Dashboards.
 
-6. [Presentation of Findings]() :
+6. [Presentation of Findings](https://github.com/MOBARK-AHMED/Mobark-s_portfolio/tree/main/Projects/Final%20Presentation) :
 
 - Final Presentation.
 ## Connect with me on these platforms:
