@@ -1,6 +1,6 @@
 # 🥇 Professional Certificate
 
-![Uploading Coursera PU8TQP25XWDS_page-0001.jpg…]()
+![Coursera PU8TQP25XWDS_page-0001](https://user-images.githubusercontent.com/96189256/212827814-328f4230-5874-4a4b-a5bd-d9ac8e9b103a.jpg)
 
 ## 📙 Course Structures
 There are 9 Courses in this Professional Certificate Specialization are as follows:
