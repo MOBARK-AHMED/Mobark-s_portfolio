@@ -57,5 +57,5 @@
 - Final Presentation.
 ## Connect with me on these platforms:
 - LinkdIn : [https://www.linkedin.com/in/mobark-ahmed-5104a9190](https://www.linkedin.com/in/mobark-ahmed-5104a9190)
-- Gmail :  [data@mobarkahmed.tech](mailto:data@mobarkahmed.tech)
+- Gmail :  [mobarkofficial@gmail.com](mailto:mobarkofficial@gmail.com)
 - Website : [mobarkahmed.tech](https://www.mobarkahmed.tech)
